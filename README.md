@@ -1,6 +1,6 @@
 # my_provider
 
-A new Flutter project.
+the most basic representation provider state-management Flutter project.
 
 ## Getting Started
 
